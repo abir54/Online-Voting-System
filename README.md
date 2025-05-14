@@ -102,16 +102,4 @@ After a user applies as a candidate for a particular Election, Admin can grant p
 ### Candidate Details <a name='candidate-details'></a>
 This option is avaliable exclusively for admin to view details of any registered user. This information can be used in making the right decision to select him as a candidate or not based on the criteria that admin decides for any election.
 
-![alt tag](https://raw.githubusercontent.com/srajat/Online-Voting-System/master/images/Capture11.PNG)
 
-## Contributers <a name='contributers'></a>
-* Rajat Saxena
-* Satyam Poddar
-* Pranav Pandey
-* Abhinav Mishra
-
-## Links <a name='links'></a>
-
-Visit me:     [Rajat Saxena](http://www.rajatsaxena.me/)
-
-Contact me:     <rajat8171@gmail.com>
